@@ -2801,7 +2801,7 @@
             "last_commit": "2025-08-18T11:58:20Z",
             "owner": "jczic",
             "repo": "MicroWebSrv2",
-            "stars": 711
+            "stars": 712
           }
         },
         {
@@ -6597,7 +6597,7 @@
             "last_commit": "2023-10-22T14:49:59Z",
             "owner": "lemariva",
             "repo": "micropython-camera-driver",
-            "stars": 549
+            "stars": 550
           }
         },
         {
@@ -9506,7 +9506,7 @@
             "last_commit": "2026-02-07T08:00:48Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 21442
+            "stars": 21444
           }
         },
         {
@@ -9524,7 +9524,7 @@
             "last_commit": "2026-02-07T08:00:48Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 21442
+            "stars": 21444
           }
         },
         {
@@ -9599,7 +9599,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-06T22:04:03Z",
+            "last_commit": "2026-02-07T22:04:57Z",
             "owner": "Josverl",
             "repo": "micropython-stubs",
             "stars": 287
@@ -10018,7 +10018,7 @@
             "last_commit": "2026-02-07T08:00:48Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 21442
+            "stars": 21444
           }
         },
         {
@@ -10070,10 +10070,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:02:20.794Z",
+    "last_updated": "2026-02-08T04:35:29.519Z",
     "original_repository": "mcauser/awesome-micropython",
     "source_repository": "v1nvn/enhansome-micropython",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Untitled"
   }
 }
