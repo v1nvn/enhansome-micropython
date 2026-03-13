@@ -255,7 +255,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-05T02:23:38Z",
+            "last_commit": "2026-03-13T00:00:42Z",
             "owner": "QuirkyCort",
             "repo": "IoTy",
             "stars": 16
@@ -294,7 +294,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-05T02:23:38Z",
+            "last_commit": "2026-03-13T00:00:42Z",
             "owner": "QuirkyCort",
             "repo": "IoTy",
             "stars": 16
@@ -1589,7 +1589,7 @@
             "last_commit": "2025-08-13T11:01:09Z",
             "owner": "peterhinch",
             "repo": "micropython_ir",
-            "stars": 300
+            "stars": 299
           }
         },
         {
@@ -1651,7 +1651,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2024-03-20T16:05:30Z",
+            "last_commit": "2026-03-12T18:51:04Z",
             "owner": "bartoszadamczyk",
             "repo": "pico-ir",
             "stars": 29
@@ -1777,7 +1777,7 @@
             "last_commit": "2023-12-12T15:50:47Z",
             "owner": "xreef",
             "repo": "EByte_LoRa_E32_micropython_library",
-            "stars": 9
+            "stars": 10
           }
         }
       ],
@@ -2252,7 +2252,7 @@
             "last_commit": "2026-03-02T13:32:25Z",
             "owner": "micropython",
             "repo": "micropython-lib",
-            "stars": 2762
+            "stars": 2763
           }
         },
         {
@@ -2368,7 +2368,7 @@
             "last_commit": "2026-03-02T13:32:25Z",
             "owner": "micropython",
             "repo": "micropython-lib",
-            "stars": 2762
+            "stars": 2763
           }
         },
         {
@@ -3083,7 +3083,7 @@
             "last_commit": "2026-03-10T23:30:41Z",
             "owner": "miguelgrinberg",
             "repo": "microdot",
-            "stars": 2091
+            "stars": 2092
           }
         },
         {
@@ -3197,7 +3197,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-19T14:03:39Z",
+            "last_commit": "2026-03-12T20:22:01Z",
             "owner": "kritishmohapatra",
             "repo": "micropidash",
             "stars": 8
@@ -4063,7 +4063,7 @@
             "last_commit": "2026-03-02T13:32:25Z",
             "owner": "micropython",
             "repo": "micropython-lib",
-            "stars": 2762
+            "stars": 2763
           }
         },
         {
@@ -4264,7 +4264,7 @@
             "last_commit": "2024-08-05T23:55:12Z",
             "owner": "russhughes",
             "repo": "st7789py_mpy",
-            "stars": 237
+            "stars": 238
           }
         },
         {
@@ -5017,7 +5017,7 @@
             "last_commit": "2026-03-02T13:32:25Z",
             "owner": "micropython",
             "repo": "micropython-lib",
-            "stars": 2762
+            "stars": 2763
           }
         },
         {
@@ -5635,7 +5635,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-05T02:23:38Z",
+            "last_commit": "2026-03-13T00:00:42Z",
             "owner": "QuirkyCort",
             "repo": "IoTy",
             "stars": 16
@@ -7033,7 +7033,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-05T02:23:38Z",
+            "last_commit": "2026-03-13T00:00:42Z",
             "owner": "QuirkyCort",
             "repo": "IoTy",
             "stars": 16
@@ -7156,7 +7156,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-05T02:23:38Z",
+            "last_commit": "2026-03-13T00:00:42Z",
             "owner": "QuirkyCort",
             "repo": "IoTy",
             "stars": 16
@@ -7169,7 +7169,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-05T02:23:38Z",
+            "last_commit": "2026-03-13T00:00:42Z",
             "owner": "QuirkyCort",
             "repo": "IoTy",
             "stars": 16
@@ -7552,7 +7552,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-05T02:23:38Z",
+            "last_commit": "2026-03-13T00:00:42Z",
             "owner": "QuirkyCort",
             "repo": "IoTy",
             "stars": 16
@@ -7578,7 +7578,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-05T02:23:38Z",
+            "last_commit": "2026-03-13T00:00:42Z",
             "owner": "QuirkyCort",
             "repo": "IoTy",
             "stars": 16
@@ -7591,7 +7591,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-05T02:23:38Z",
+            "last_commit": "2026-03-13T00:00:42Z",
             "owner": "QuirkyCort",
             "repo": "IoTy",
             "stars": 16
@@ -7604,7 +7604,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-05T02:23:38Z",
+            "last_commit": "2026-03-13T00:00:42Z",
             "owner": "QuirkyCort",
             "repo": "IoTy",
             "stars": 16
@@ -8081,7 +8081,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-05T02:23:38Z",
+            "last_commit": "2026-03-13T00:00:42Z",
             "owner": "QuirkyCort",
             "repo": "IoTy",
             "stars": 16
@@ -8559,7 +8559,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-05T02:23:38Z",
+            "last_commit": "2026-03-13T00:00:42Z",
             "owner": "QuirkyCort",
             "repo": "IoTy",
             "stars": 16
@@ -8961,7 +8961,7 @@
             "last_commit": "2026-03-02T13:32:25Z",
             "owner": "micropython",
             "repo": "micropython-lib",
-            "stars": 2762
+            "stars": 2763
           }
         },
         {
@@ -10152,7 +10152,7 @@
             "last_commit": "2026-03-11T05:40:49Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 21531
+            "stars": 21535
           }
         },
         {
@@ -10170,7 +10170,7 @@
             "last_commit": "2026-03-11T05:40:49Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 21531
+            "stars": 21535
           }
         },
         {
@@ -10248,7 +10248,7 @@
             "last_commit": "2026-03-11T22:05:46Z",
             "owner": "Josverl",
             "repo": "micropython-stubs",
-            "stars": 288
+            "stars": 289
           }
         },
         {
@@ -10677,7 +10677,7 @@
             "last_commit": "2026-03-11T05:40:49Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 21531
+            "stars": 21535
           }
         },
         {
@@ -10774,7 +10774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-12T04:17:20.963Z",
+    "last_updated": "2026-03-13T04:15:52.253Z",
     "original_repository": "mcauser/awesome-micropython",
     "source_repository": "v1nvn/enhansome-micropython",
     "source_repository_description": null,
