@@ -59,7 +59,7 @@ Other places you can look for MicroPython Libraries:
 ### AI
 
 * [MicroMLP](https://github.com/jczic/MicroMLP) ⭐ 194 | 🐛 6 | 🌐 Python | 📅 2020-12-23 - A micro neural network multilayer perceptron for MicroPython (used on ESP32 and Pycom modules).
-* [emlearn-micropython](https://github.com/emlearn/emlearn-micropython) ⭐ 153 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-01-14 - Efficient Machine Learning engine for MicroPython.
+* [emlearn-micropython](https://github.com/emlearn/emlearn-micropython) ⭐ 155 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-01-14 - Efficient Machine Learning engine for MicroPython.
 * [upython-chat-gpt](https://github.com/karlsoderby/upython-chat-gpt) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2023-06-05 - ChatGPT for MicroPython.
 * [mp\_esp\_dl\_models](https://github.com/cnadler86/mp_esp_dl_models) ⭐ 10 | 🐛 2 | 🌐 C++ | 📅 2025-09-10 - MicroPython binding for the ESP DL vision models like face detection.
 * [MicroPython-NeuralNetwork](https://gitlab.com/olivierlenoir/MicroPython-NeuralNetwork) - Neural Network for MicroPython.
@@ -224,7 +224,7 @@ Other places you can look for MicroPython Libraries:
 
 #### IR
 
-* [micropython\_ir](https://github.com/peterhinch/micropython_ir) ⭐ 300 | 🐛 12 | 🌐 Python | 📅 2025-08-13 - Nonblocking device drivers to receive from IR remotes and for IR "blaster" apps.
+* [micropython\_ir](https://github.com/peterhinch/micropython_ir) ⭐ 301 | 🐛 12 | 🌐 Python | 📅 2025-08-13 - Nonblocking device drivers to receive from IR remotes and for IR "blaster" apps.
 * [esp8266\_ir](https://github.com/ruoyu0088/esp8266_ir) ⭐ 51 | 🐛 3 | 🌐 Python | 📅 2017-10-16 - Control IR signal by WebSocket.
 * [micropython-ys-irtm](https://github.com/mcauser/micropython-ys-irtm) ⭐ 34 | 🐛 0 | 📅 2019-12-20 - MicroPython examples for YS-IRTM 5V NEC Infrared UART transceivers.
 * [pico-ir](https://github.com/bartoszadamczyk/pico-ir) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2026-03-12 - IR library for Raspberry Pi Pico.
@@ -248,7 +248,7 @@ Other places you can look for MicroPython Libraries:
 #### LoRaWAN
 
 * [uPyLoRaWAN](https://github.com/lemariva/uPyLoRaWAN) ⭐ 242 | 🐛 12 | 🌐 Python | 📅 2023-12-26 - ESP32 using MicroPython meets LoRa and LoRaWAN.
-* [micropySX126X](https://github.com/ehong-tl/micropySX126X) ⭐ 157 | 🐛 14 | 🌐 Python | 📅 2025-12-07 - Semtech SX126X LoRa driver for MicroPython and CircuitPython.
+* [micropySX126X](https://github.com/ehong-tl/micropySX126X) ⭐ 159 | 🐛 14 | 🌐 Python | 📅 2025-12-07 - Semtech SX126X LoRa driver for MicroPython and CircuitPython.
 * [SX127x\_driver\_for\_MicroPython\_on\_ESP8266](https://github.com/Wei1234c/SX127x_driver_for_MicroPython_on_ESP8266) ⭐ 153 | 🐛 1 | 🌐 Python | 📅 2025-06-10 - SX127x (LoRa transceiver) driver for (Micro)Python on ESP8266/ESP32/Raspberry Pi.
 * [u-lora](https://github.com/martynwheeler/u-lora) ⭐ 91 | 🐛 15 | 🌐 Python | 📅 2023-10-05 - Raspi-lora for MicroPython.
 * [LightLora\_MicroPython](https://github.com/MZachmann/LightLora_MicroPython) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2025-05-22 - Lightweight Interrupt-driven Semtech SX127x Library for MicroPython.
@@ -308,7 +308,7 @@ Other places you can look for MicroPython Libraries:
 
 #### OneWire
 
-* [Official OneWire](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/bus/onewire) ⭐ 2,771 | 🐛 295 | 🌐 Python | 📅 2026-03-19 - For devices using the OneWire bus, eg Dallas DS18x20.
+* [Official OneWire](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/bus/onewire) ⭐ 2,771 | 🐛 293 | 🌐 Python | 📅 2026-03-19 - For devices using the OneWire bus, eg Dallas DS18x20.
 * [Onewire\_DS18X20](https://github.com/robert-hh/Onewire_DS18X20) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2025-06-25 - Classes for driving the DS18x20 sensor with the OneWire protocol for Pycom MicroPython.
 * [micropython\_arduino\_control](https://github.com/kevinkk525/micropython_arduino_control) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2020-07-20 - MicroPython library to control an Arduino remotely, with corresponding Arduino code.
 
@@ -328,7 +328,7 @@ Other places you can look for MicroPython Libraries:
 
 #### Radio
 
-* [Official nRF24L01](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/radio/nrf24l01) ⭐ 2,771 | 🐛 295 | 🌐 Python | 📅 2026-03-19 - Official driver for nRF24L01 2.4GHz radio modules.
+* [Official nRF24L01](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/radio/nrf24l01) ⭐ 2,771 | 🐛 293 | 🌐 Python | 📅 2026-03-19 - Official driver for nRF24L01 2.4GHz radio modules.
 * [micropython\_remote](https://github.com/peterhinch/micropython_remote) ⭐ 82 | 🐛 2 | 🌐 Python | 📅 2021-12-17 - Capture and replay 433MHz remote control codes. Control remote switched power adaptors.
 * [micropython-radio](https://github.com/peterhinch/micropython-radio) ⭐ 60 | 🐛 2 | 🌐 Python | 📅 2022-12-26 - Protocols for nRF24L01 2.4GHz radio modules.
 * [micropython-TEA5767](https://github.com/alankrantas/micropython-TEA5767) ⚠️ Archived - MicroPython ESP8266/ESP32 driver for TEA5767 FM radio module.
@@ -451,7 +451,7 @@ Other places you can look for MicroPython Libraries:
 * [thimble](https://github.com/DavesCodeMusings/thimble) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2025-03-28 - A tiny web framework for MicroPython.
 * [micropython-noggin](https://github.com/larsks/micropython-noggin) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2017-11-17 - A very simple web server for MicroPython.
 * [micropython-configserver](https://github.com/carstenblt/micropython-configserver) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2017-08-21 - Captive portal for MicroPython including a dumb DNS server and a web server to configure WiFi networks.
-* [micropidash](https://github.com/kritishmohapatra/micropidash) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-03-12 – Simple web dashboard served directly from MicroPython boards (ESP32, Pico W).
+* [micropidash](https://github.com/kritishmohapatra/micropidash) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-03-12 – Simple web dashboard served directly from MicroPython boards (ESP32, Pico W).
 * [microsky](https://github.com/nakagami/microsky) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-01-05 - A [Bluesky](https://bsky.app/) client for Python and MicroPython.
 * [CaptiveWebServer](https://github.com/joewez/CaptiveWebServer) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2021-10-06 - Simple MicroPython web server for serving a website from a captive portal.
 * [wlan-relays](https://github.com/oliver-joos/wlan-relays) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2025-11-01 - Very simple HTTP server written in MicroPython for controlling the pins of an ESP32 board.
@@ -544,7 +544,7 @@ Other places you can look for MicroPython Libraries:
 
 #### LCD Graphic
 
-* [Official LCD160CR](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/display/lcd160cr) ⭐ 2,771 | 🐛 295 | 🌐 Python | 📅 2026-03-19 - Driver for official MicroPython LCD160CR display with resistive touch sensor.
+* [Official LCD160CR](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/display/lcd160cr) ⭐ 2,771 | 🐛 293 | 🌐 Python | 📅 2026-03-19 - Driver for official MicroPython LCD160CR display with resistive touch sensor.
 * [micropython-pcd8544](https://github.com/mcauser/micropython-pcd8544) ⭐ 73 | 🐛 2 | 🌐 Python | 📅 2018-08-23 - Driver for Nokia 5110 PCD8544 84x48 LCD modules.
 * [micropython-st7565](https://github.com/nquest/micropython-st7565) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2018-02-14 - Driver for ST7565 128x64 LCDs.
 * [micropython-st7920](https://github.com/ShrimpingIt/micropython-st7920) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2020-05-17 - Library for simple graphic primitives on ST7920 128x64 monochrome LCD panel using ESP8266 and SPI.
@@ -635,7 +635,7 @@ Other places you can look for MicroPython Libraries:
 
 #### OLED
 
-* [Official SSD1306](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/display/ssd1306) ⭐ 2,771 | 🐛 295 | 🌐 Python | 📅 2026-03-19 - Driver for SSD1306 128x64 OLED displays.
+* [Official SSD1306](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/display/ssd1306) ⭐ 2,771 | 🐛 293 | 🌐 Python | 📅 2026-03-19 - Driver for SSD1306 128x64 OLED displays.
 * [SH1106](https://github.com/robert-hh/SH1106) ⭐ 240 | 🐛 2 | 🌐 Python | 📅 2025-05-22 - Driver for the SH1106 OLED display.
 * [micropython-ssd1351](https://github.com/rdagger/micropython-ssd1351) ⭐ 62 | 🐛 0 | 🌐 Python | 📅 2025-03-15 - Driver for SSD1351 OLED displays.
 * [micropython-ssd1309](https://github.com/rdagger/micropython-ssd1309) ⭐ 53 | 🐛 3 | 🌐 Python | 📅 2026-02-21 - MicroPython SSD1309 Monochrome OLED Display Driver.
@@ -767,7 +767,7 @@ Other places you can look for MicroPython Libraries:
 ### Mathematics
 
 * [Sun and Moon](https://github.com/peterhinch/micropython-samples/blob/master/astronomy/README.md) ⭐ 525 | 🐛 13 | 🌐 Python | 📅 2025-09-14 - Determine Sun and Moon rise and set times, Moon phases.
-* [micropython-ulab](https://github.com/v923z/micropython-ulab) ⭐ 490 | 🐛 48 | 🌐 C | 📅 2026-02-14 - A NumPy-like fast vector module for MicroPython.
+* [micropython-ulab](https://github.com/v923z/micropython-ulab) ⭐ 491 | 🐛 48 | 🌐 C | 📅 2026-02-14 - A NumPy-like fast vector module for MicroPython.
 * [micropython-fourier](https://github.com/peterhinch/micropython-fourier) ⭐ 93 | 🐛 0 | 🌐 Python | 📅 2025-10-31 - Fast Fourier transform in MicroPython's inline ARM assembler.
 * [Filters](https://github.com/peterhinch/micropython-filters) ⭐ 71 | 🐛 3 | 🌐 Python | 📅 2022-01-26 - FIR filters using ARM Thumb assembler. Using an online utility you can go from a graph of required frequency response to a filter implementation.
 * [ulinalg](https://github.com/jalawson/ulinalg) ⭐ 32 | 🐛 2 | 🌐 Python | 📅 2019-03-22 - Small size matrix handling module with a few linear algebra operations specifically for MicroPython (Python 3).
@@ -809,8 +809,8 @@ Other places you can look for MicroPython Libraries:
 * [ticlib](https://github.com/jphalip/ticlib) ⭐ 21 | 🐛 4 | 🌐 Python | 📅 2025-04-19 - Driver for Pololu Tic stepper motor controllers.
 * [uPySteppers](https://github.com/lemariva/uPySteppers) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2020-05-31 - DIY rotating platform using an ESP32 connected to WiFi.
 * [micropython-stepper-motor](https://github.com/larsks/micropython-stepper-motor) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-01-14 - Drive a 28BYJ-48 motor attached to a ULN2003 driver.
+* [micropython-rp2-smartStepper](https://github.com/bikeNomad/micropython-rp2-smartStepper) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-03-07 - RP2040/RP2350 library using PIO and DMA to control a stepper motor.
 * [microPython\_TMC5160](https://github.com/capella-ben/microPython_TMC5160) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2021-12-22 - A MicroPython library for the Trinamic TMC5160 Motion Controller.
-* [micropython-rp2-smartStepper](https://github.com/bikeNomad/micropython-rp2-smartStepper) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-03-07 - RP2040/RP2350 library using PIO and DMA to control a stepper motor.
 * [pystepper](https://github.com/marcio-pessoa/pystepper) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2019-12-10 - MicroPython Stepper Motor Sequence Control.
 * [microPython\_AMIS-30543](https://github.com/capella-ben/microPython_AMIS-30543) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2021-09-04 - MicroPython library for Stepper Driver control using AMIS-30543 driver.
 * [micropython-drv8825](https://gitlab.com/robhamerling/micropython-drv8825) - Driver and example in MicroPython to control a stepper motor via a DRV8825 controller board.
@@ -1079,7 +1079,7 @@ Other places you can look for MicroPython Libraries:
 
 #### Temperature Digital
 
-* [Official DHT11+DHT12](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/sensor/dht) ⭐ 2,771 | 🐛 295 | 🌐 Python | 📅 2026-03-19 - ESP8266 driver for DHT11 and DHT12 temperature and humidity sensor.
+* [Official DHT11+DHT12](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/sensor/dht) ⭐ 2,771 | 🐛 293 | 🌐 Python | 📅 2026-03-19 - ESP8266 driver for DHT11 and DHT12 temperature and humidity sensor.
 * [HTU21D](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/HTU21D.md) ⭐ 819 | 🐛 4 | 🌐 Python | 📅 2026-03-16 - Asynchronous driver for HTU21D temperature and humidity sensor.
 * [micropython-sht30](https://github.com/rsc1975/micropython-sht30) ⭐ 52 | 🐛 5 | 🌐 Python | 📅 2019-06-07 - Driver for SHT30 temperature and humidity sensor.
 * [micropython\_ahtx0](https://github.com/targetblank/micropython_ahtx0) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2023-10-12 - MicroPython driver for the AHT10 and AHT20 temperature and humidity sensors.
@@ -1189,7 +1189,7 @@ Other places you can look for MicroPython Libraries:
 #### Flash
 
 * [micropython\_data\_to\_py](https://github.com/peterhinch/micropython_data_to_py) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2023-08-01 - A Python 3 utility to convert an arbitrary binary file to Python source for freezing as bytecode in Flash.
-* [freezeFS](https://github.com/bixb922/freezeFS) ⭐ 32 | 🐛 1 | 🌐 Python | 📅 2025-10-25 - Create self-extracting compressed or self-mounting archives for MicroPython.
+* [freezeFS](https://github.com/bixb922/freezeFS) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2025-10-25 - Create self-extracting compressed or self-mounting archives for MicroPython.
 * [micropython-winbond](https://github.com/brainelectronics/micropython-winbond) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2024-05-30 - Interact with Winbond W25Q Flash chips via SPI.
 
 #### FRAM
@@ -1238,7 +1238,7 @@ Other places you can look for MicroPython Libraries:
 * [asyncio](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/TUTORIAL.md) ⭐ 819 | 🐛 4 | 🌐 Python | 📅 2026-03-16 - Write asynchronous code which interfaces to hardware devices.
 * [Asynchronous drivers](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/DRIVERS.md) ⭐ 819 | 🐛 4 | 🌐 Python | 📅 2026-03-16 - Tutorial and code for asynchronous interfaces to switches, pushbuttons, encoders and ADCs.
 * [3D rotation with quaternions](https://github.com/peterhinch/micropython-samples/blob/master/QUATERNIONS.md) ⭐ 525 | 🐛 13 | 🌐 Python | 📅 2025-09-14 - Tutorial and code for the easy way to do 3D rotation.
-* [100 Days 100 IoT Projects](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects) ⭐ 274 | 🐛 0 | 🌐 Python | 📅 2026-03-18 - A 100-day challenge building real-world IoT projects with MicroPython on ESP32, ESP8266 and Raspberry Pi Pico 2W. Step-by-step documented with wiring diagrams and code for beginners.
+* [100 Days 100 IoT Projects](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects) ⭐ 279 | 🐛 0 | 🌐 Python | 📅 2026-03-19 - A 100-day challenge building real-world IoT projects with MicroPython on ESP32, ESP8266 and Raspberry Pi Pico 2W. Step-by-step documented with wiring diagrams and code for beginners.
 * [Pyboard micropower](https://github.com/peterhinch/micropython-micropower) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2023-09-11 - Tutorial and code for low power applications on Pyboard 1.x and Pyboard D.
 * [CoderDojo Twin Cities MicroPython](https://github.com/CoderDojoTC/micropython) ⭐ 31 | 🐛 2 | 🌐 Python | 📅 2025-04-03 - Full coding curriculum for teaching MicroPython to children.
 * [Miguel Grinberg](https://blog.miguelgrinberg.com/category/MicroPython) - MicroPython and the Internet of Things.
@@ -1262,7 +1262,7 @@ Other places you can look for MicroPython Libraries:
 
 ## Frameworks
 
-* [micrOS](https://github.com/BxNxM/micrOS) ⭐ 128 | 🐛 0 | 🌐 Python | 📅 2026-03-18 - MicroPython-based IoT Framework.
+* [micrOS](https://github.com/BxNxM/micrOS) ⭐ 128 | 🐛 1 | 🌐 Python | 📅 2026-03-19 - MicroPython-based IoT Framework.
 * [terkin-datalogger](https://github.com/hiveeyes/terkin-datalogger) ⭐ 64 | 🐛 32 | 🌐 Python | 📅 2022-12-03 - Flexible data logger application for MicroPython and CPython.
 * [meerkat](https://github.com/crdietrich/meerkat) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2023-03-19 - I2C Data Acquisition for MicroPython and Raspberry Pi.
 * [public-micropython-iot-platform](https://github.com/wolfen351/public-micropython-iot-platform) ⭐ 8 | 🐛 0 | 🌐 C | 📅 2025-07-21 - Project Fred MicroPython IOT Platform, code to control relays, temp sensors, buttons, touchscreen, GPS etc. Has a responsive Web UI, MQTT, Home Assistant and ThingsBoard support.
@@ -1270,8 +1270,8 @@ Other places you can look for MicroPython Libraries:
 
 ## Resources
 
-* [MicroPython on GitHub](https://github.com/micropython/micropython) ⭐ 21,555 | 🐛 1,847 | 🌐 C | 📅 2026-03-18 - Submit bug reports, follow and join in development on GitHub.
-* [MicroPython Wiki](https://github.com/micropython/micropython/wiki) ⭐ 21,555 | 🐛 1,847 | 🌐 C | 📅 2026-03-18 - Community generated documentation and examples of the features of MicroPython and the Pyboard.
+* [MicroPython on GitHub](https://github.com/micropython/micropython) ⭐ 21,562 | 🐛 1,832 | 🌐 C | 📅 2026-03-20 - Submit bug reports, follow and join in development on GitHub.
+* [MicroPython Wiki](https://github.com/micropython/micropython/wiki) ⭐ 21,562 | 🐛 1,832 | 🌐 C | 📅 2026-03-20 - Community generated documentation and examples of the features of MicroPython and the Pyboard.
 * [awesome-micropythons](https://github.com/adafruit/awesome-micropythons) ⭐ 48 | 🐛 1 | 📅 2020-02-18 - The many forks & ports of MicroPython.
 * [MicroPython](https://micropython.org) - Project website. Test drive the Pyboard. Try MicroPython online with Unicorn.
 * [MicroPython Official Documentation](https://docs.micropython.org/) - For various ports, including quick reference, general information, examples and tutorials.
@@ -1284,7 +1284,7 @@ Other places you can look for MicroPython Libraries:
 ### Code Generation
 
 * [micropy-cli](https://github.com/BradenM/micropy-cli) ⭐ 332 | 🐛 51 | 🌐 Python | 📅 2026-03-16 - Micropy CLI is a project management/generation tool for writing MicroPython code in modern IDEs such as Visual Studio Code.
-* [micropython-stubs](https://github.com/Josverl/micropython-stubs) ⭐ 289 | 🐛 27 | 🌐 Python | 📅 2026-03-18 - Stubs of most MicroPython ports, boards and versions to make writing code that much simpler.
+* [micropython-stubs](https://github.com/Josverl/micropython-stubs) ⭐ 289 | 🐛 27 | 🌐 Python | 📅 2026-03-19 - Stubs of most MicroPython ports, boards and versions to make writing code that much simpler.
 * [micropython-stubber](https://github.com/Josverl/micropython-stubber) ⭐ 248 | 🐛 26 | 🌐 Python | 📅 2026-03-13 - Generate and use stubs for different MicroPython firmwares to use with Visual Studio Code or any IDE and linter.
 * [wasm2mpy](https://github.com/vshymanskyy/wasm2mpy) ⭐ 153 | 🐛 0 | 🌐 C | 📅 2025-01-09 - Compile WebAssembly to native MicroPython `.mpy` files. Allows writing code in various statically compiled languages, and translating them to C for near-native performance.
 * [micropy-stubs](https://github.com/BradenM/micropy-stubs) ⭐ 30 | 🐛 6 | 🌐 Python | 📅 2022-12-08 - Automatically Generated Stub Packages for Micropy-Cli and whomever else.
@@ -1294,7 +1294,7 @@ Other places you can look for MicroPython Libraries:
 
 ### Debugging
 
-* [Asynchronous monitor](https://github.com/peterhinch/micropython-monitor) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2025-11-03 - Use a Raspberry Pico and a logic analyser or scope to monitor asynchronous code.
+* [Asynchronous monitor](https://github.com/peterhinch/micropython-monitor) ⭐ 40 | 🐛 0 | 🌐 Python | 📅 2025-11-03 - Use a Raspberry Pico and a logic analyser or scope to monitor asynchronous code.
 * [esp32-backtrace](https://github.com/tve/esp32-backtrace) ⭐ 30 | 🐛 2 | 🌐 Shell | 📅 2019-08-21 - ESP32 Exception Stack Backtrace Analyzer.
 * [micropython-usyslog](https://github.com/kfricke/micropython-usyslog) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2023-07-13 - Simple remote syslog client for MicroPython.
 * [micropython-aiosentry](https://github.com/devbis/micropython-aiosentry) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2019-03-12 - Asynchronous Sentry.io micro client for MicroPython.
@@ -1341,8 +1341,8 @@ Other places you can look for MicroPython Libraries:
 
 #### On Host
 
-* [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) ⭐ 21,555 | 🐛 1,847 | 🌐 C | 📅 2026-03-18 - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
-* [rshell](https://github.com/dhylands/rshell) ⭐ 1,033 | 🐛 132 | 🌐 Python | 📅 2024-12-04 - Copy or sync files to boards, enter REPL from your terminal.
+* [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) ⭐ 21,562 | 🐛 1,832 | 🌐 C | 📅 2026-03-20 - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
+* [rshell](https://github.com/dhylands/rshell) ⭐ 1,034 | 🐛 132 | 🌐 Python | 📅 2024-12-04 - Copy or sync files to boards, enter REPL from your terminal.
 * [ampy](https://github.com/scientifichackers/ampy) ⭐ 755 | 🐛 41 | 🌐 Python | 📅 2024-07-16 - Utility to interact with a MicroPython board over a serial connection.
 * [mpfshell](https://github.com/wendlers/mpfshell) ⭐ 416 | 🐛 27 | 🌐 Python | 📅 2025-01-09 - A simple shell-based file explorer for ESP8266 and WiPy.
 * [mpbridge](https://github.com/AmirHmZz/mpbridge) ⭐ 55 | 🐛 4 | 🌐 Python | 📅 2025-01-24 - A file system bridge to synchronize and manage files on a device running MicroPython.
@@ -1364,6 +1364,6 @@ Other places you can look for MicroPython Libraries:
 
 ## Contributing
 
-Contributions and suggestions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mcauser/awesome-micropython/blob/master/contributing.md) ⭐ 1,758 | 🐛 7 | 🌐 HTML | 📅 2026-03-19 first.
+Contributions and suggestions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mcauser/awesome-micropython/blob/master/contributing.md) ⭐ 1,758 | 🐛 6 | 🌐 HTML | 📅 2026-03-19 first.
 
 I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could vote for them by adding 👍 to them.
