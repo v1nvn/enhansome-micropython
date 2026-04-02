@@ -41,7 +41,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-01-14T21:18:45Z",
+            "last_commit": "2026-04-01T10:20:06Z",
             "owner": "emlearn",
             "repo": "emlearn-micropython",
             "stars": 155
@@ -607,7 +607,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-01T01:49:30Z",
+            "last_commit": "2026-04-01T07:25:58Z",
             "owner": "ekspla",
             "repo": "micropython_aioble_examples",
             "stars": 5
@@ -705,7 +705,7 @@
             "last_commit": "2026-04-01T01:16:05Z",
             "owner": "BrianPugh",
             "repo": "tamp",
-            "stars": 63
+            "stars": 64
           }
         },
         {
@@ -718,7 +718,7 @@
             "last_commit": "2024-11-04T20:48:15Z",
             "owner": "jonnor",
             "repo": "micropython-zipfile",
-            "stars": 16
+            "stars": 17
           }
         },
         {
@@ -2241,10 +2241,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-23T00:23:05Z",
+            "last_commit": "2026-04-01T05:03:01Z",
             "owner": "micropython",
             "repo": "micropython-lib",
-            "stars": 2776
+            "stars": 2777
           }
         },
         {
@@ -2357,10 +2357,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-23T00:23:05Z",
+            "last_commit": "2026-04-01T05:03:01Z",
             "owner": "micropython",
             "repo": "micropython-lib",
-            "stars": 2776
+            "stars": 2777
           }
         },
         {
@@ -3023,7 +3023,7 @@
             "last_commit": "2025-06-20T11:31:59Z",
             "owner": "insighio",
             "repo": "microCoAPy",
-            "stars": 69
+            "stars": 70
           }
         },
         {
@@ -4065,10 +4065,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-23T00:23:05Z",
+            "last_commit": "2026-04-01T05:03:01Z",
             "owner": "micropython",
             "repo": "micropython-lib",
-            "stars": 2776
+            "stars": 2777
           }
         },
         {
@@ -5019,10 +5019,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-23T00:23:05Z",
+            "last_commit": "2026-04-01T05:03:01Z",
             "owner": "micropython",
             "repo": "micropython-lib",
-            "stars": 2776
+            "stars": 2777
           }
         },
         {
@@ -8968,10 +8968,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-23T00:23:05Z",
+            "last_commit": "2026-04-01T05:03:01Z",
             "owner": "micropython",
             "repo": "micropython-lib",
-            "stars": 2776
+            "stars": 2777
           }
         },
         {
@@ -9311,7 +9311,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-26T20:47:06Z",
+            "last_commit": "2026-04-01T18:43:58Z",
             "owner": "octaprog7",
             "repo": "TMP117",
             "stars": 2
@@ -9728,7 +9728,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-10T17:19:16Z",
+            "last_commit": "2026-04-02T02:22:29Z",
             "owner": "crate",
             "repo": "micropython-cratedb",
             "stars": 10
@@ -9992,7 +9992,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-27T11:49:02Z",
+            "last_commit": "2026-04-01T07:34:31Z",
             "owner": "kritishmohapatra",
             "repo": "100_Days_100_IoT_Projects",
             "stars": 342
@@ -10096,7 +10096,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-30T19:02:24Z",
+            "last_commit": "2026-04-01T17:05:47Z",
             "owner": "BxNxM",
             "repo": "micrOS",
             "stars": 133
@@ -10167,7 +10167,7 @@
             "last_commit": "2026-04-01T04:01:25Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 21591
+            "stars": 21593
           }
         },
         {
@@ -10185,7 +10185,7 @@
             "last_commit": "2026-04-01T04:01:25Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 21591
+            "stars": 21593
           }
         },
         {
@@ -10260,7 +10260,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-31T22:10:11Z",
+            "last_commit": "2026-04-01T22:10:50Z",
             "owner": "Josverl",
             "repo": "micropython-stubs",
             "stars": 293
@@ -10692,7 +10692,7 @@
             "last_commit": "2026-04-01T04:01:25Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 21591
+            "stars": 21593
           }
         },
         {
@@ -10750,7 +10750,7 @@
             "last_commit": "2026-03-03T23:30:40Z",
             "owner": "BrianPugh",
             "repo": "belay",
-            "stars": 266
+            "stars": 267
           }
         },
         {
@@ -10789,7 +10789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-01T04:50:03.469Z",
+    "last_updated": "2026-04-02T04:32:56.183Z",
     "original_repository": "mcauser/awesome-micropython",
     "source_repository": "v1nvn/enhansome-micropython",
     "source_repository_description": null,
