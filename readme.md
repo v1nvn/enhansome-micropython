@@ -67,7 +67,7 @@ Other places you can look for MicroPython Libraries:
 ### Audio
 
 * [micropython-i2s-examples](https://github.com/miketeachman/micropython-i2s-examples) ⭐ 302 | 🐛 14 | 🌐 Python | 📅 2025-01-26 - Examples for I2S support on microcontrollers that run MicroPython.
-* [micropython-osc](https://github.com/SpotlightKid/micropython-osc) ⭐ 74 | 🐛 3 | 🌐 Python | 📅 2023-11-15 - A minimal OSC client and server library for MicroPython.
+* [micropython-osc](https://github.com/SpotlightKid/micropython-osc) ⭐ 75 | 🐛 3 | 🌐 Python | 📅 2023-11-15 - A minimal OSC client and server library for MicroPython.
 * [micropython-dfplayer](https://github.com/ShrimpingIt/micropython-dfplayer) ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2020-05-17 - Driver for DFPlayer Mini using UART.
 * [upy-rtttl](https://github.com/dhylands/upy-rtttl) ⭐ 43 | 🐛 2 | 🌐 Python | 📅 2025-02-17 - Python Parser for Ring Tone Text Transfer Language (RTTTL).
 * [umidiparser](https://github.com/bixb922/umidiparser) ⭐ 40 | 🐛 3 | 🌐 Python | 📅 2025-03-26 - MIDI file parser for MicroPython, CircuitPython and Python.
@@ -131,14 +131,14 @@ Other places you can look for MicroPython Libraries:
 
 #### Compression
 
-* [tamp](https://github.com/BrianPugh/tamp) ⭐ 65 | 🐛 1 | 🌐 C | 📅 2026-04-27 - A low-memory, MicroPython-optimized, DEFLATE-inspired lossless compression library.
+* [tamp](https://github.com/BrianPugh/tamp) ⭐ 66 | 🐛 1 | 🌐 C | 📅 2026-04-27 - A low-memory, MicroPython-optimized, DEFLATE-inspired lossless compression library.
 * [ufastlz](https://github.com/dmazzella/ufastlz) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2022-06-11 - MicroPython wrapper for FastLZ, a lightning-fast lossless compression library.
 * [micropython-zipfile](https://github.com/jonnor/micropython-zipfile) ⭐ 18 | 🐛 2 | 🌐 Python | 📅 2024-11-04 - Read/write ZIP archive files. Ported from CPython, supports DEFLATE compression.
 * [bitstruct-micropython](https://github.com/peterzuger/bitstruct-micropython) ⭐ 7 | 🐛 2 | 🌐 C | 📅 2024-03-22 - MicroPython port of [bitstruct](https://github.com/eerimoq/bitstruct) ⭐ 135 | 🐛 14 | 🌐 C | 📅 2026-02-17.
 
 #### Cryptography
 
-* [embit](https://github.com/diybitcoinhardware/embit) ⭐ 110 | 🐛 40 | 🌐 Python | 📅 2026-03-18 - A minimal Bitcoin library for MicroPython and Python 3 with a focus on embedded systems.
+* [embit](https://github.com/diybitcoinhardware/embit) ⭐ 111 | 🐛 41 | 🌐 Python | 📅 2026-03-18 - A minimal Bitcoin library for MicroPython and Python 3 with a focus on embedded systems.
 * [ucrypto](https://github.com/dmazzella/ucrypto) ⭐ 44 | 🐛 0 | 🌐 C | 📅 2025-02-01 - MicroPython package for doing fast RSA and elliptic curve cryptography, specifically digital signatures. ECDSA API design inspired from fastecdsa and implementation based on tomsfastmath.
 * [ucryptoauthlib](https://github.com/dmazzella/ucryptoauthlib) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2024-08-12 - Lightweight driver for Microchip Crypto Authentication secure elements written in pure Python for MicroPython.
 * [mpyaes](https://github.com/iyassou/mpyaes) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2020-09-15 - MicroPython module for AES encryption.
@@ -440,7 +440,7 @@ Other places you can look for MicroPython Libraries:
 * [micropyserver](https://github.com/troublegum/micropyserver) ⭐ 158 | 🐛 3 | 🌐 Python | 📅 2025-01-12 - MicroPyServer is a simple HTTP server for MicroPython projects.
 * [micropython-nanoweb](https://github.com/hugokernel/micropython-nanoweb) ⭐ 120 | 🐛 1 | 🌐 Python | 📅 2025-11-14 - Full async MicroPython web server with small memory footprint.
 * [upy-websocket-server](https://github.com/BetaRavener/upy-websocket-server) ⭐ 85 | 🐛 3 | 🌐 Python | 📅 2023-03-15 - MicroPython (ESP8266) WebSocket server implementation.
-* [microCoAPy](https://github.com/insighio/microCoAPy) ⭐ 70 | 🐛 5 | 🌐 Python | 📅 2025-06-20 - A mini client/server implementation of CoAP (Constrained Application Protocol) into MicroPython.
+* [microCoAPy](https://github.com/insighio/microCoAPy) ⭐ 69 | 🐛 5 | 🌐 Python | 📅 2025-06-20 - A mini client/server implementation of CoAP (Constrained Application Protocol) into MicroPython.
 * [MicroWebCli](https://github.com/jczic/MicroWebCli) ⭐ 57 | 🐛 9 | 🌐 Python | 📅 2020-12-12 - A micro HTTP web client for MicroPython (used on Pycom modules & ESP32).
 * [micropython-urouter](https://github.com/majoson-chen/micropython-urouter) ⭐ 53 | 🐛 0 | 🌐 Python | 📅 2023-01-16 - A lightweight HTTP request routing processing support library based on MicroPython. The previous name was micro-route.
 * [micropython-captive-portal](https://github.com/amora-labs/micropython-captive-portal) ⭐ 51 | 🐛 3 | 🌐 Python | 📅 2018-06-04 - A captive portal demo for MicroPython.
@@ -522,7 +522,7 @@ Other places you can look for MicroPython Libraries:
 * [micro-gui](https://github.com/peterhinch/micropython-micro-gui) ⭐ 341 | 🐛 12 | 🌐 Python | 📅 2026-01-19 - Derived from nano-gui and supporting the same displays and hosts, this provides for user input via push buttons or a navigation joystick and an optional rotary encoder.
 * [TFT-GUI](https://github.com/peterhinch/micropython-tft-gui) ⭐ 97 | 🐛 2 | 🌐 Python | 📅 2020-06-16 - A fast touch GUI for large displays based on SSD1963 controller with XPT2046 touch controller.
 * [micropython-core2](https://github.com/lemariva/micropython-core2) ⭐ 63 | 🐛 4 | 🌐 C | 📅 2022-03-29 - Extends LV-MicroPython for the M5Stack CORE2 with MPU6886, ILI9342C, BM8563 and AXP192 drivers.
-* [micropython-touch](https://github.com/peterhinch/micropython-touch) ⭐ 60 | 🐛 7 | 🌐 Python | 📅 2026-04-26 - Derived from nano-gui and supporting the same displays and hosts, this offers touch input. Supports various touch controllers.
+* [micropython-touch](https://github.com/peterhinch/micropython-touch) ⭐ 60 | 🐛 1 | 🌐 Python | 📅 2026-04-28 - Derived from nano-gui and supporting the same displays and hosts, this offers touch input. Supports various touch controllers.
 * [micropython-lcd160cr-gui](https://github.com/peterhinch/micropython-lcd160cr-gui) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2020-11-30 - Simple touch-driven event based GUI for the Pyboard and LCD160CR colour display.
 * [micropython-nextion](https://github.com/brainelectronics/micropython-nextion) ⭐ 13 | 🐛 5 | 🌐 Python | 📅 2023-06-12 - Control Nextion displays using MicroPython.
 * [micropython\_ra8875](https://github.com/peterhinch/micropython_ra8875) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2021-04-16 - MicroPython device driver and nano-GUI for RA8875 based displays.
@@ -530,12 +530,12 @@ Other places you can look for MicroPython Libraries:
 
 #### LCD Character
 
-* [python\_lcd](https://github.com/dhylands/python_lcd) ⭐ 328 | 🐛 18 | 🌐 Python | 📅 2023-02-17 - Driver for HD44780-compatible dot matrix LCDs.
+* [python\_lcd](https://github.com/dhylands/python_lcd) ⭐ 329 | 🐛 18 | 🌐 Python | 📅 2023-02-17 - Driver for HD44780-compatible dot matrix LCDs.
 * [micropython-i2c-lcd](https://github.com/Bucknalla/micropython-i2c-lcd) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2025-05-04 - Driver for I2C 2x16 LCD Screens.
 * [micropython-lcd](https://github.com/wjdp/micropython-lcd) ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2014-10-27 - Class for controlling the HD44780 from a MicroPython Pyboard.
 * [micropython-i2c-lcd](https://github.com/brainelectronics/micropython-i2c-lcd) ⭐ 20 | 🐛 4 | 🌐 Python | 📅 2023-10-21 - MicroPython package to control HD44780 LCD displays 1602 and 2004 via I2C.
+* [micropython-charlcd](https://github.com/rdagger/micropython-charlcd) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2017-07-01 - Driver for HD44780-compatible LCDs.
 * [LCM1602-14\_LCD\_Library](https://github.com/Bhavithiran97/LCM1602-14_LCD_Library) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2021-11-22 - driver for AIP31068L [3.3 V I2C and SPI 1602 Serial Character LCDs](https://www.cytron.io/p-3v3-i2c-and-spi-1602-serial-character-lcd).
-* [micropython-charlcd](https://github.com/rdagger/micropython-charlcd) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2017-07-01 - Driver for HD44780-compatible LCDs.
 * [micropython\_i2c\_lcd](https://github.com/Thomascountz/micropython_i2c_lcd) ⭐ 6 | 🐛 2 | 🌐 Python | 📅 2024-06-21 - MicroPython library for interacting with HD44780-based LCD displays through a PCF8574 I/O expander. It offers a high-level API for LCD control, including text display, cursor manipulation, and backlight settings, while also providing lower-level access to the GPIO operations on the PCF8574.
 * [lcdi2c](https://github.com/slothyrulez/lcdi2c) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2016-02-22 - Driver for HD44780-compatible dot matrix LCDs.
 * [Grove\_RGB\_LCD](https://github.com/dda/MicroPython/blob/master/Grove_RGB_LCD.py) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2014-12-05 - Driver for SeeedStudio's Grove RGB LCD.
@@ -555,7 +555,7 @@ Other places you can look for MicroPython Libraries:
 
 #### LCD TFT
 
-* [st7789\_mpy](https://github.com/russhughes/st7789_mpy) ⭐ 705 | 🐛 37 | 🌐 Python | 📅 2026-04-15 - Fast MicroPython driver for ST7789 display module written in C.
+* [st7789\_mpy](https://github.com/russhughes/st7789_mpy) ⭐ 706 | 🐛 37 | 🌐 Python | 📅 2026-04-15 - Fast MicroPython driver for ST7789 display module written in C.
 * [micropython-ili9341](https://github.com/rdagger/micropython-ili9341) ⭐ 294 | 🐛 3 | 🌐 Python | 📅 2025-03-02 - MicroPython ILI9341 display & XPT2046 touch screen driver.
 * [MicroPython-ST7735](https://github.com/boochow/MicroPython-ST7735) ⭐ 271 | 🐛 10 | 🌐 Python | 📅 2022-12-30 - ESP32 version of GuyCarvers's ST7735 TFT LCD driver.
 * [st7789py\_mpy](https://github.com/russhughes/st7789py_mpy) ⭐ 242 | 🐛 16 | 🌐 Python | 📅 2024-08-05 - Driver for 320x240, 240x240 and 135x240 ST7789 displays written in MicroPython.
@@ -589,7 +589,7 @@ Other places you can look for MicroPython Libraries:
 
 #### LED Matrix
 
-* [micropython-max7219](https://github.com/mcauser/micropython-max7219) ⭐ 208 | 🐛 8 | 🌐 Python | 📅 2019-07-03 - Driver for MAX7219 8x8 LED matrix modules.
+* [micropython-max7219](https://github.com/mcauser/micropython-max7219) ⭐ 209 | 🐛 8 | 🌐 Python | 📅 2019-07-03 - Driver for MAX7219 8x8 LED matrix modules.
 * [micropython-max7219](https://github.com/vrialland/micropython-max7219) ⭐ 42 | 🐛 2 | 🌐 Python | 📅 2022-07-25 - MicroPython driver for MAX7219 8x8 LED matrix.
 * [micropython-matrix8x8](https://github.com/JanBednarik/micropython-matrix8x8) ⭐ 15 | 🐛 4 | 🌐 Python | 📅 2024-03-09 - Driver for Adafruit 8x8 LED Matrix display with HT16K33 backpack.
 * [micropython-ht1632c](https://github.com/vrialland/micropython-ht1632c) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2018-01-10 - Driver for HT1632C 32x16 bicolor LED matrix.
@@ -889,7 +889,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-camera-driver](https://github.com/lemariva/micropython-camera-driver) ⭐ 561 | 🐛 34 | 🌐 C | 📅 2023-10-22 - OV2640 camera driver for MicroPython on ESP32.
 * [uPyCam](https://github.com/lemariva/uPyCam) ⭐ 166 | 🐛 11 | 🌐 Python | 📅 2022-02-02 - Take a photo with an ESP32-CAM running MicroPython.
 * [micropython-camera-API](https://github.com/cnadler86/micropython-camera-API) ⭐ 147 | 🐛 2 | 🌐 C | 📅 2026-01-12 - Project with the aim of supporting cameras across various ports in MicroPython, starting with the ESP32 port and Omnivision cameras (OV2640 & OV5640).
-* [micropython-ov2640](https://github.com/namato/micropython-ov2640) ⭐ 122 | 🐛 8 | 🌐 Python | 📅 2022-10-05 - MicroPython class for OV2640 camera.
+* [micropython-ov2640](https://github.com/namato/micropython-ov2640) ⭐ 123 | 🐛 8 | 🌐 Python | 📅 2022-10-05 - MicroPython class for OV2640 camera.
 * [esp32-cam-micropython](https://github.com/shariltumin/esp32-cam-micropython) ⭐ 95 | 🐛 11 | 🌐 Makefile | 📅 2022-06-13 - MicroPython ESP32-CAM.
 * [IoTy huskylib](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/huskylib.py) ⭐ 16 | 🐛 3 | 🌐 JavaScript | 📅 2026-04-15 - MicroPython driver for the DFRobot Husky Lens. An easy-to-use AI Camera / Vision Sensor, featuring face recognition, object tracking, object recognition, line tracking, color recognition, and QR code recognition.
 * [IoTy mv](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/mv.py) ⭐ 16 | 🐛 3 | 🌐 JavaScript | 📅 2026-04-15 - A simple machine vision library that provides blob and circle detection.
@@ -1024,7 +1024,7 @@ Other places you can look for MicroPython Libraries:
 #### Motion Inertial
 
 * [micropython-fusion](https://github.com/micropython-IMU/micropython-fusion) ⭐ 346 | 🐛 5 | 🌐 Python | 📅 2020-08-26 - Sensor fusion calculates heading, pitch and roll from the outputs of motion tracking devices.
-* [micropython-mpu9x50](https://github.com/micropython-IMU/micropython-mpu9x50) ⭐ 277 | 🐛 3 | 🌐 Python | 📅 2024-10-23 - Driver for the InvenSense MPU9250 inertial measurement unit.
+* [micropython-mpu9x50](https://github.com/micropython-IMU/micropython-mpu9x50) ⭐ 276 | 🐛 3 | 🌐 Python | 📅 2024-10-23 - Driver for the InvenSense MPU9250 inertial measurement unit.
 * [micropython-mpu9250](https://github.com/tuupola/micropython-mpu9250) ⭐ 164 | 🐛 7 | 🌐 Python | 📅 2024-03-01 - I2C driver for MPU9250 9-axis motion tracking device.
 * [MPU6050-ESP8266-MicroPython](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) ⭐ 91 | 🐛 7 | 🌐 Python | 📅 2021-04-05 - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 * [py-mpu6050](https://github.com/larsks/py-mpu6050) ⭐ 86 | 🐛 5 | 🌐 Python | 📅 2022-01-31 - ESP8266 driver for MPU6050 accelerometer/gyroscope.
@@ -1220,7 +1220,7 @@ Other places you can look for MicroPython Libraries:
 ### Utilities
 
 * [micropython-hexdump](https://github.com/mattytrentini/micropython-hexdump) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-05-22 - An implementation of Hexdump for MicroPython.
-* [mp\_wcwidth](https://github.com/Josverl/mp_wcwidth) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-01-27 - Python port of [wcwidth](https://github.com/jquast/wcwidth) ⭐ 454 | 🐛 4 | 🌐 Python | 📅 2026-04-27 to handle wide unicode characters such as "你好世界" in terminal output.
+* [mp\_wcwidth](https://github.com/Josverl/mp_wcwidth) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-01-27 - Python port of [wcwidth](https://github.com/jquast/wcwidth) ⭐ 454 | 🐛 4 | 🌐 Python | 📅 2026-04-28 to handle wide unicode characters such as "你好世界" in terminal output.
 * [micropython-units](https://github.com/WoolleySheep/micropython-units) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-08-15 - A library for working with physical quantities in MicroPython.
 
 ## Community
@@ -1238,7 +1238,7 @@ Other places you can look for MicroPython Libraries:
 * [asyncio](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/TUTORIAL.md) ⭐ 824 | 🐛 4 | 🌐 Python | 📅 2026-03-16 - Write asynchronous code which interfaces to hardware devices.
 * [Asynchronous drivers](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/DRIVERS.md) ⭐ 824 | 🐛 4 | 🌐 Python | 📅 2026-03-16 - Tutorial and code for asynchronous interfaces to switches, pushbuttons, encoders and ADCs.
 * [3D rotation with quaternions](https://github.com/peterhinch/micropython-samples/blob/master/QUATERNIONS.md) ⭐ 528 | 🐛 13 | 🌐 Python | 📅 2025-09-14 - Tutorial and code for the easy way to do 3D rotation.
-* [100 Days 100 IoT Projects](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects) ⭐ 425 | 🐛 0 | 🌐 Python | 📅 2026-04-24 - A 100-day challenge building real-world IoT projects with MicroPython on ESP32, ESP8266 and Raspberry Pi Pico 2W. Step-by-step documented with wiring diagrams and code for beginners.
+* [100 Days 100 IoT Projects](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects) ⭐ 503 | 🐛 0 | 🌐 Python | 📅 2026-04-24 - A 100-day challenge building real-world IoT projects with MicroPython on ESP32, ESP8266 and Raspberry Pi Pico 2W. Step-by-step documented with wiring diagrams and code for beginners.
 * [Pyboard micropower](https://github.com/peterhinch/micropython-micropower) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2023-09-11 - Tutorial and code for low power applications on Pyboard 1.x and Pyboard D.
 * [CoderDojo Twin Cities MicroPython](https://github.com/CoderDojoTC/micropython) ⭐ 32 | 🐛 2 | 🌐 Python | 📅 2025-04-03 - Full coding curriculum for teaching MicroPython to children.
 * [Miguel Grinberg](https://blog.miguelgrinberg.com/category/MicroPython) - MicroPython and the Internet of Things.
@@ -1270,8 +1270,8 @@ Other places you can look for MicroPython Libraries:
 
 ## Resources
 
-* [MicroPython on GitHub](https://github.com/micropython/micropython) ⭐ 21,662 | 🐛 1,888 | 🌐 C | 📅 2026-04-20 - Submit bug reports, follow and join in development on GitHub.
-* [MicroPython Wiki](https://github.com/micropython/micropython/wiki) ⭐ 21,662 | 🐛 1,888 | 🌐 C | 📅 2026-04-20 - Community generated documentation and examples of the features of MicroPython and the Pyboard.
+* [MicroPython on GitHub](https://github.com/micropython/micropython) ⭐ 21,662 | 🐛 1,887 | 🌐 C | 📅 2026-04-20 - Submit bug reports, follow and join in development on GitHub.
+* [MicroPython Wiki](https://github.com/micropython/micropython/wiki) ⭐ 21,662 | 🐛 1,887 | 🌐 C | 📅 2026-04-20 - Community generated documentation and examples of the features of MicroPython and the Pyboard.
 * [awesome-micropythons](https://github.com/adafruit/awesome-micropythons) ⭐ 48 | 🐛 1 | 📅 2020-02-18 - The many forks & ports of MicroPython.
 * [MicroPython](https://micropython.org) - Project website. Test drive the Pyboard. Try MicroPython online with Unicorn.
 * [MicroPython Official Documentation](https://docs.micropython.org/) - For various ports, including quick reference, general information, examples and tutorials.
@@ -1284,7 +1284,7 @@ Other places you can look for MicroPython Libraries:
 ### Code Generation
 
 * [micropy-cli](https://github.com/BradenM/micropy-cli) ⭐ 336 | 🐛 53 | 🌐 Python | 📅 2026-04-27 - Micropy CLI is a project management/generation tool for writing MicroPython code in modern IDEs such as Visual Studio Code.
-* [micropython-stubs](https://github.com/Josverl/micropython-stubs) ⭐ 297 | 🐛 33 | 🌐 Python | 📅 2026-04-27 - Stubs of most MicroPython ports, boards and versions to make writing code that much simpler.
+* [micropython-stubs](https://github.com/Josverl/micropython-stubs) ⭐ 297 | 🐛 32 | 🌐 Python | 📅 2026-04-28 - Stubs of most MicroPython ports, boards and versions to make writing code that much simpler.
 * [micropython-stubber](https://github.com/Josverl/micropython-stubber) ⭐ 248 | 🐛 15 | 🌐 Python | 📅 2026-04-27 - Generate and use stubs for different MicroPython firmwares to use with Visual Studio Code or any IDE and linter.
 * [wasm2mpy](https://github.com/vshymanskyy/wasm2mpy) ⭐ 153 | 🐛 0 | 🌐 C | 📅 2025-01-09 - Compile WebAssembly to native MicroPython `.mpy` files. Allows writing code in various statically compiled languages, and translating them to C for near-native performance.
 * [micropy-stubs](https://github.com/BradenM/micropy-stubs) ⭐ 30 | 🐛 6 | 🌐 Python | 📅 2022-12-08 - Automatically Generated Stub Packages for Micropy-Cli and whomever else.
@@ -1341,7 +1341,7 @@ Other places you can look for MicroPython Libraries:
 
 #### On Host
 
-* [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) ⭐ 21,662 | 🐛 1,888 | 🌐 C | 📅 2026-04-20 - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
+* [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) ⭐ 21,662 | 🐛 1,887 | 🌐 C | 📅 2026-04-20 - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
 * [rshell](https://github.com/dhylands/rshell) ⭐ 1,036 | 🐛 132 | 🌐 Python | 📅 2024-12-04 - Copy or sync files to boards, enter REPL from your terminal.
 * [ampy](https://github.com/scientifichackers/ampy) ⭐ 758 | 🐛 40 | 🌐 Python | 📅 2026-04-16 - Utility to interact with a MicroPython board over a serial connection.
 * [mpfshell](https://github.com/wendlers/mpfshell) ⭐ 415 | 🐛 27 | 🌐 Python | 📅 2025-01-09 - A simple shell-based file explorer for ESP8266 and WiPy.
